@@ -24,8 +24,3 @@
 ## 🚀 보유 역량  
 - **데이터 분석**: Python, R 
 - **시각화 및 보고**: Excel  
-
----
-
-## 📫 Contact  
-- ✉️ 이메일:  blade0127@naver.com 
