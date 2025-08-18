@@ -1,9 +1,5 @@
 ## Hi there 👋
 안녕하세요, 저는 이정현입니다
-<!--
-**blade-git/blade-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🎓 한양대학교 경영컨설팅학과 석사  
 🎓 경성대학교 산업경영공학과 학사  
